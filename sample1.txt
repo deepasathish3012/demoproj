@@ -3,3 +3,4 @@ adding changes
 line added directly in remote repo
 this is local commit line
 this line is from newbranch
+this line is from newbranch1
